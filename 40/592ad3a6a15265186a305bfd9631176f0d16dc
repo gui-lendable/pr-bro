@@ -1,0 +1,45 @@
+Cargo.toml
+  s_1ed6cdad369e76::t_9fae154b961a24 38
+docs/configuration.md
+  s_1ed6cdad369e76::t_1f53c4c1727c73 270-283,287,289-290,295,299-307
+  s_1ed6cdad369e76::t_ea9c787e1d81e5 16-19,239-269,284-286,288,291-294,296-298
+  s_1ed6cdad369e76::t_c2f852b239311c 308
+src/config/init.rs
+  s_1ed6cdad369e76::t_9fae154b961a24 322-329,353,359-362
+  s_1ed6cdad369e76::t_43d78abdac941a 5
+src/config/mod.rs
+  s_1ed6cdad369e76::t_96859ee0bc6799 5
+README.md
+  s_1ed6cdad369e76::t_ea9c787e1d81e5 74-75
+src/config/schema.rs
+  s_1ed6cdad369e76::t_eb645b54ca1ec1 29-32,45-81
+src/tui/app.rs
+  s_1ed6cdad369e76::t_9f5d36f14a9cc5 101-102
+  s_1ed6cdad369e76::t_99cf108385d8ea 9,76-78,103,132,178,558-567
+src/notify.rs
+  s_1ed6cdad369e76::t_96859ee0bc6799 1-70,72-80,82-86,91-132,136,151-154
+  s_1ed6cdad369e76::t_9f5d36f14a9cc5 81,87-90
+  s_1ed6cdad369e76::t_4774eaaff5a26b 133-135,137-150
+  s_1ed6cdad369e76::t_089750c8a09d6d 71
+  s_1ed6cdad369e76::t_f3dec7cab0cf61 155-156
+src/lib.rs
+  s_1ed6cdad369e76::t_96859ee0bc6799 6
+Cargo.lock
+  s_1ed6cdad369e76::t_54f095806367cb 119-130,230-240,292-302,412-420,951-977,1942-1955,2102-2115,2214-2215,2298-2307,2586,2614-2622,3274-3284,3589-3599,3871-3900,3999-4009,4097,4621-4629,4768-4776,4911-4980,5066-5106
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "40592ad3a6a15265186a305bfd9631176f0d16dc",
+  "prompts": {},
+  "sessions": {
+    "s_1ed6cdad369e76": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c7191319-8a3c-45d3-bbd2-0d89d5b079a1",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Guilherme Donato <257302383+gui-lendable@users.noreply.github.com>"
+    }
+  }
+}
